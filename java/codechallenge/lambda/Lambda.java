@@ -1,4 +1,4 @@
-package com.codechallenge.lambda;
+package lambda;
 
 import java.net.SocketOption;
 
