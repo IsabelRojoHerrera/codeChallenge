@@ -2,8 +2,7 @@ package Sparse_Arrays;
 import java.io.*;
 import java.util.*;
 
-import Sparse_Arrays_2.Result;
-
+// no repite elementos del txt de los query
 
 public class Solution {
     public static void main(String[] args) throws IOException {
