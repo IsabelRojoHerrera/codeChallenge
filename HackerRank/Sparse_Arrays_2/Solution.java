@@ -1,8 +1,6 @@
-package Sparse_Arrays;
+package Sparse_Arrays_2;
 import java.io.*;
 import java.util.*;
-
-import Sparse_Arrays_2.Result;
 
 
 public class Solution {

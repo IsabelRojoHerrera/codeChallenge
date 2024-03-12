@@ -12,8 +12,11 @@ class Result {
         
         
         for(String dato : queries){
+            if(contadores.containsKey(dato))
             contadores.put(dato, 0);
         }
+        System.out.println(queries.size());
+
         for (int i=0; i<strings.size(); i++){
             if(contadores.containsKey(strings.get(i)))
                 contadores.put(strings.get(i), contadores.get(strings.get(i))+1);
